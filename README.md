@@ -19,3 +19,10 @@ try.doit('main',{//main为id名字
 	stop:4000,//当每句话显示完后的时间间隔,默认为4000
 });
 ```
+**HTML**
+```html
+//引入这段html
+<div class="showtext" id="main">
+	<div><h1></h1></div><span></span>
+</div>
+```
