@@ -1,6 +1,7 @@
 # WriteSomething.js
-**这是一个用js模拟打字的小程序，很炫酷**
+**这是一个用js模拟打字的小程序，很炫酷**<br />
 
+**JavaScript**
 ```javascript
 //如何使用
 
@@ -25,4 +26,25 @@ try.doit('main',{//main为id名字
 <div class="showtext" id="main">
 	<div><h1></h1></div><span></span>
 </div>
+```
+**css**
+```css
+//引入WriteSomethingStyle.css
+<link type="text/css" rel="stylesheet" href="css/WriteSomethingStyle.css" >
+//或者
+.showtext div{
+	display: inline-block;
+}
+.showtext div h1{
+	color: #E8E8FF;
+}
+.showtext span{
+	display: inline-block;
+	width: 8px;
+	height: 30px;
+	background-color: #fff;
+	margin-left: 6px;
+	margin-bottom: -4px;
+}
+
 ```
