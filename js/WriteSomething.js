@@ -12,7 +12,6 @@
 			two:0
 		};
 		this.onces=true;
-		this.onces=true;
 		this.showboolean=true;
 		this.span='';
 		this.time1='';
