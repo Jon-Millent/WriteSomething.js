@@ -1,4 +1,4 @@
-(function(window){
+;(function(window){
 	function WriteSomething(){
 		this.config={
 			frequency:500,
