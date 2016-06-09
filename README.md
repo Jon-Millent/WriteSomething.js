@@ -1,5 +1,5 @@
 # WriteSomething.js
-**这是一个用js模拟打字的小程序，很炫酷**<br />
+**这是一个用js模拟打字的小程序.很炫酷**<br />
 **演示**[WriteSomething](http://www.thisummer.top/children/WriteSomething "演示")  
 **JavaScript**
 ```javascript
